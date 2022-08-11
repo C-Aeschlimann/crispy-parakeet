@@ -25,11 +25,9 @@ Ein Haustier haben wir leider nicht, jedoch möchte ich irgendwann mal so ein kl
 
 
 
-
-[![image](https://user-images.githubusercontent.com/111046353/184096377-d2f47060-6fa1-46b7-b2c6-f053b65ed5c1.png)](https://altekanti.ch/)
-
-
-
-
+[![image](https://user-images.githubusercontent.com/111046353/184096377-d2f47060-6fa1-46b7-b2c6-f053b65ed5c1.png)](https://www.altekanti.ch/)
 
 *E-Mail:* Christian.Aeschlimann@stud.altekanti.ch
+
+
+`**fett**`
