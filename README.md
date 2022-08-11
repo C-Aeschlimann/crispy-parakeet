@@ -19,7 +19,7 @@ Ein Haustier haben wir leider nicht, jedoch möchte ich irgendwann mal so ein kl
 
 
 
-![image](https://user-images.githubusercontent.com/111046353/184096305-f947dcb8-8298-44e4-9e31-168c8d7828b1.png)    
+[![image](https://user-images.githubusercontent.com/111046353/184102151-e85ba2db-64c6-4b8e-8b52-19a8cbf8c368.png)](https://www.bbbaden.ch/)
 
 *E-Mail:* C.Aeschlimann.inf22@stud.bbbaden.ch
 
@@ -33,8 +33,3 @@ Ein Haustier haben wir leider nicht, jedoch möchte ich irgendwann mal so ein kl
 
 
 *E-Mail:* Christian.Aeschlimann@stud.altekanti.ch
-
-
-
-
-[![image](https://user-images.githubusercontent.com/111046353/184102151-e85ba2db-64c6-4b8e-8b52-19a8cbf8c368.png)](https://www.bbbaden.ch/)
