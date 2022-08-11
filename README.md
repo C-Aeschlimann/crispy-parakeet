@@ -35,3 +35,9 @@ Ein Haustier haben wir leider nicht, jedoch möchte ich irgendwann mal so ein kl
 
 *E-Mail:* Christian.Aeschlimann@stud.altekanti.ch
 
+
+
+[Bild 1]: https://user-images.githubusercontent.com/111046353/184096305-f947dcb8-8298-44e4-9e31-168c8d7828b1.png
+
+
+<a href="www.bbbaden.ch"><img src="Bild 1"></a>
