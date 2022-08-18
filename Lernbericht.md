@@ -14,20 +14,21 @@ Das wichtigeste was ich eigentlich gelernt habe ist das ich meine Position halte
 ![image](https://user-images.githubusercontent.com/111046353/185318726-5b7880db-2a02-4658-82be-70213a5e2595.jpeg)
 
 
+https://www.youtube.com/watch?v=FInFhcplxF8
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+Im Video kann man sehen das es sehr wichtig ist immer beim Gegner zu bleiben und ihn immer zu stören, zudem ist es auch noch sehr Wichtig das man immer in Bewegung ist um den Gegner hinterher zu kommen.
+
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im Video kann man sehen das es sehr wichtig ist immer beim Gegner zu bleiben und ihn immer zu stören, zudem ist es auch noch sehr Wichtig das man immer in Bewegung ist um den Gegner hinterher zu kommen.
+
+Auf dem Bild sieht man meine alte Mannschaft welche ich bis im Sommer gehabt habe, der Teamgeist ist im Fussball auch elementar wichtig.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich lerne meistens relativ schnell aus meinen Fehlern, und arbeite fortlaufend an mir.
 
-👎 und etwas, was nicht gut lief.
+Manchmal spiele ich in der hektik den ball unkonrolliert weg, was uns am Sonntag (Meisterschaftsspiel) ein Tor einbrachte.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Wochentliches Konditionstraning um meine Geschwindigkeit und meine Ausdauer verbessere.
