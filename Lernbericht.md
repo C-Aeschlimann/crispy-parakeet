@@ -7,7 +7,7 @@ Wie ich angefangen habe Fussball zu spielen und dabei gelernt habe.
 
 ## Was habe ich gelernt?
 
-Das wichtigeste was ich eigentlich gelernt habe ist das ich meine Position halte.
+Das Wichtigste, was ich eigentlich gelernt habe, ist, dass ich meine Position halte.
 
 ## Beschreibung
 
@@ -16,19 +16,17 @@ Das wichtigeste was ich eigentlich gelernt habe ist das ich meine Position halte
 
 https://www.youtube.com/watch?v=FInFhcplxF8
 
-Im Video kann man sehen das es sehr wichtig ist immer beim Gegner zu bleiben und ihn immer zu stören, zudem ist es auch noch sehr Wichtig das man immer in Bewegung ist um den Gegner hinterher zu kommen.
-
 
 ## Verifikation
 
-Im Video kann man sehen das es sehr wichtig ist immer beim Gegner zu bleiben und ihn immer zu stören, zudem ist es auch noch sehr Wichtig das man immer in Bewegung ist um den Gegner hinterher zu kommen.
+Im Video kann man sehen, dass es sehr wichtig ist immer beim Gegner zu bleiben und ihn immer zu stören, zudem ist es auch noch sehr wichtig das man immer in Bewegung ist um den Gegner hinterherzukommen.
 
-Auf dem Bild sieht man meine alte Mannschaft welche ich bis im Sommer gehabt habe, der Teamgeist ist im Fussball auch elementar wichtig.
+Auf dem Bild sieht man meine alte Mannschaft, welche ich bis im Sommer gehabt habe, der Teamgeist ist im Fussball auch elementar wichtig.
 
 # Reflektion zum Arbeitsprozess
 
 Ich lerne meistens relativ schnell aus meinen Fehlern, und arbeite fortlaufend an mir.
 
-Manchmal spiele ich in der hektik den ball unkonrolliert weg, was uns am Sonntag (Meisterschaftsspiel) ein Tor einbrachte.
+Manchmal spiele ich in der Hektik den Ball unkontrolliert weg, was uns am Sonntag (Meisterschaftsspiel) ein Tor einbrachte.
 
-**VBV**: Wochentliches Konditionstraning um meine Geschwindigkeit und meine Ausdauer verbessere.
+**VBV**: Wöchentliches Konditionstraining, um meine Geschwindigkeit und meine Ausdauer verbessere.
