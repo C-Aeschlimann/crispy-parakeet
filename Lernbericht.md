@@ -7,7 +7,7 @@ Wie ich angefangen habe Fussball zu spielen und dabei gelernt habe.
 
 ## Was habe ich gelernt?
 
-Das Wichtigste, was ich eigentlich gelernt habe, ist, dass ich meine Position halte.
+Das Wichtigste, was ich eigentlich gelernt habe, ist, dass ich meine Position halten muss.
 
 ## Beschreibung
 
