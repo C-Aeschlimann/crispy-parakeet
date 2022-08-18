@@ -25,8 +25,8 @@ Auf dem Bild sieht man meine alte Mannschaft, welche ich bis im Sommer gehabt ha
 
 # Reflektion zum Arbeitsprozess
 
-Ich lerne meistens relativ schnell aus meinen Fehlern, und arbeite fortlaufend an mir.
++ Ich lerne meistens relativ schnell aus meinen Fehlern, und arbeite fortlaufend an mir.
 
-Manchmal spiele ich in der Hektik den Ball unkontrolliert weg, was uns am Sonntag (Meisterschaftsspiel) ein Tor einbrachte.
+- Manchmal spiele ich in der Hektik den Ball unkontrolliert weg, was uns am Sonntag (Meisterschaftsspiel) ein Tor einbrachte.
 
 **VBV**: Wöchentliches Konditionstraining, um meine Geschwindigkeit und meine Ausdauer verbessere.
