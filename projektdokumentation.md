@@ -51,17 +51,17 @@ Workshop anmelde Programm
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           | Konto kann erstellt werden |    45min      |
-| ...  |       |           | Benutzer kann sich bei einem bestehenden Konto einloggen|    45min     |
-| ...  |       |           | Workshop werden angezeigt und können ausgewählt werden|    60min    |
-| ...  |       |           | Workshops werden fair unter den Anmeldungen ausgeteilt|    90min     |
-| ...  |       |           | Finale zuteilung erfolgt direkt nach dem Entscheid|      45min    |
-| ...  |       |           | Programm begrüsst einem beim Start|   30min     |
-| ...  |       |           | Das Programm zeigt die Beliebtesten Workshops an |   90min   |
-| ...  |       |           | Das Programm kann bei Interesse zusatzinformationen zu einem bestimmten Workshop angeben |   45min     |
-| ...  |       |           | Es gibt einen Feedback befehl|  30min    |
-| ...  |       |           | Temporäre zuordnung der Workshops |   90min     |
-| ...  |       |           | Programm schön darstellen |  90min |
+| 1.A  |       |Lukas| Konto kann erstellt werden |    45min      |
+| 2:A  |       |Lukas| Benutzer kann sich bei einem bestehenden Konto einloggen|    45min     |
+| 3.A  |       |Mirhan| Workshop werden angezeigt und können ausgewählt werden|    60min    |
+| 4.A  |       |Brandon| Workshops werden fair unter den Anmeldungen ausgeteilt|    90min     |
+| 5.A  |       |Christian| Finale zuteilung erfolgt direkt nach dem Entscheid|      45min    |
+| 6.A  |       |Lukas| Programm begrüsst einem beim Start|   30min     |
+| 7.A  |       |Mirhan| Das Programm zeigt die Beliebtesten Workshops an |   90min   |
+| 8.A  |       |Brandon| Das Programm kann bei Interesse zusatzinformationen zu einem bestimmten Workshop angeben |   45min     |
+| 9.A  |       |Christian| Es gibt einen Feedback befehl|  30min    |
+|10.A  |       |Brandon| Temporäre zuordnung der Workshops |   90min     |
+|11.A  |       |Christian| Programm schön darstellen |  90min |
 
 Total: 
 
